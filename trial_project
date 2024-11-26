@@ -1,0 +1,32 @@
+News Verification System
+
+Data Collection and Sources
+The system gathers and verifies news using a consistent and reliable dataset. The data sources are categorized as follows:
+
+Primary Source
+Government of Maharashtra: Official press releases, news updates, and announcements.
+Secondary Sources
+Trusted Media Outlets: Major platforms such as NDTV and other reliable media channels.
+Local News Channels: Ranked based on credibility scores.
+Cross-Referencing Hierarchy
+
+The verification process adheres to the following order of priority:
+Government of Maharashtra: The primary and most authoritative source.
+Trusted Media Outlets: Secondary references, validated against the primary source.
+Local Channels: Additional references, ranked based on established credibility.
+This hierarchical system ensures that news authenticity is established based on the most reliable channels.
+
+Detection of Fake News
+The system identifies fake or misleading news using the following methods:
+
+Verified News:
+Highlighted as authenticated.
+Clearly attributes the source.
+
+Fake News:
+Displays the corrected version.
+Includes the primary source for the corrected information.
+
+Source Credibility Scores:
+A visualization of the reliability of each news outlet to guide user trust.
+This structured system ensures accurate, transparent, and user-friendly news verification.
